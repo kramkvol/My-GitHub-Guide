@@ -22,11 +22,14 @@ Here you'll find a collection of my university coursework, final projects, and p
 
 ---
 
-## University, Bc. (2023 - 2027(?))
+## University, Bc. (2023 - 2027)
 
 Czech Technical University in Prague 
+
 Faculty of Electrical Engineering
+
 Study Programme: Software Engineering and Technology
+
 Specialization: Business informatics 
 (🔗 Study plan)[https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html]
 
