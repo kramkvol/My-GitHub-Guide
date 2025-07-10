@@ -7,11 +7,11 @@ Here you'll find a collection of my university coursework, final projects, and p
 
 ## College (2019–2021)
 
+- **[🔗 C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)**  
+  My first programming experiments in C++
+  
 - **[🔗 C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)**  
   College tasks, pet projects, and final thesis in C#  
-
-- **[🔗 C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)**  
-  My first programming experiments in C++  
 
 - [🔗 MS SQL Server]()
 - [🔗 Adobe Photoshop]()
