@@ -36,7 +36,7 @@ Czech Technical University in Prague <br>
 ---
 ### 1st Year
 **Winter semester, 2023**
-- [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming)
+- [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming) <br>
   A beginner-level course covering Python basics.
 - [🔗B6B39ZMT – Foundations of Multimedia Production](https://github.com/kramkvol/B6B39ZMT-Foundations-of-Multimedia-Production)  
   I swore I’d never deal with graphics again...  
