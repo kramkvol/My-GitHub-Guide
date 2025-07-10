@@ -42,6 +42,7 @@ Czech Technical University in Prague <br>
   I swore I’d never deal with graphics again...  
   But then, in my first year, I had to take this course.  
   As a final project, we had to direct and edit a video.
+  
 **Summer semester, 2024**
 - [🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br>
   Unfortunately, at the time of implementing the final project, I wasn't yet familiar with design patterns, so the code quality is a bit messy. But it works :)
