@@ -4,7 +4,7 @@ Welcome to my GitHub!
 Here you'll find a collection of my CV, university coursework, final projects, and personal coding experiments.
 
 - [🔗My GitHub](https://github.com/kramkvol)  
-- Email: vohakramko@gmail.com
+- vohakramko@gmail.com
 ## CV
 ### Education
 - College of Business and Law (Minsk, Belarus) (2017–2021)  
