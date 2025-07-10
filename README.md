@@ -36,7 +36,7 @@ Czech Technical University in Prague <br>
 - [🔗B6B36TS1 – Software Testing](https://github.com/kramkvol/B6B36TS1-Software-Testing) <br>
   The final project required writing process-based and mock tests. <br>
   I implemented them for my final Java project. All the links and explanations are in this repository :)
-  - [🔗B0B36DBS – Database Systems]() ❌<br>
+- [🔗B0B36DBS – Database Systems]() ❌<br>
   After this course, I made a rule to never choose topics that are *too* ambitious again. <br>  
   I really enjoy the process of designing database systems and working with data, but this particular project turned out to be a complete failure :(
 - [🔗B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements) <br>
@@ -59,7 +59,7 @@ Czech Technical University in Prague <br>
 - [🔗B6B39ZAN – Basic Android Development](https://github.com/kramkvol/B6B39ZAN-Basic-Android-development) <br>
   Android app written in Kotlin. Since I love reading, the idea came to me quickly.  <br>
   I might add data export to a text file in the future, so nothing gets lost if the app is uninstalled. <br>  
-  If I do that, I might actually use the app myself :) <br>
+  If I do that, I might actually use the app myself :) 
 - [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) <br>  
   I realized that data analysis is not for me :) 
 ---
