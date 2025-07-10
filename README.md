@@ -3,7 +3,7 @@
 Welcome to my GitHub!  
 Here you'll find a collection of my CV, university coursework, final projects, and personal coding experiments.
 
-- GitHub: [🔗@kramkvol](https://github.com/kramkvol)  
+- [🔗My GitHub](https://github.com/kramkvol)  
 - Email: vohakramko@gmail.com
 ## CV
 ### Education
