@@ -60,19 +60,19 @@ Czech Technical University in Prague <br>
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
   When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
-  During the semester, I learned HTML, JavaScript, CSS, and PHP.  
-  In the final project, I used a MySQL database to store data.
+  During the semester, I learned **HTML**, **JavaScript**, **CSS**, and **PHP*.  
+  In the final project, I used a **MySQL** database to store data.
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
-  A team final project in Java. I found this course very interesting and important, so in my pet projects I try to focus on using design patterns.
+  A team final project in **Java**. I found this course very interesting and important, so in my pet projects I try to focus on using design patterns.
  
 **Summer semester, 2025**
 - [🔗B0B39KAJ – Client Applications in JavaScript](https://github.com/kramkvol/B0B39KAJ-Client-applications-in-JavaScript) <br>
   A more relaxed course after the intense B6B39ZWA :D
 - [🔗B6B39ZAN – Basic Android Development](https://github.com/kramkvol/B6B39ZAN-Basic-Android-development) <br>
-  Android app written in Kotlin. Since I love reading, the idea came to me quickly. 
+  Android app written in **Kotlin**. Since I love reading, the idea came to me quickly. 
   I might add data export to a text file in the future, so nothing gets lost if the app is uninstalled. 
   If I do that, I might actually use the app myself :) 
-- [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) <br>  
+- [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) 
   I realized that data analysis is not for me :) 
 ---
 
