@@ -58,8 +58,8 @@ Czech Technical University in Prague <br>
 ---
 ### 2nd Year
 **Winter semester, 2024**
-- [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications)
-  When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  <br>
+- [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
+  When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
   During the semester, I learned HTML, JavaScript, CSS, and PHP.  <br>
   In the final project, I used a MySQL database to store data. <br>
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
