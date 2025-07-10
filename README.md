@@ -3,6 +3,38 @@
 Welcome to my GitHub!  
 Here you'll find a collection of my university coursework, final projects, and personal coding experiments.
 
+## CV
+
+### Work Experience
+Print Shop Assistant (Summer 2021)  
+📍 3 months (part-time)  
+Prepared raster images for print, created brochures and posters.
+
+Warehouse Worker (Winter 2022 – Autumn 2023)  
+📍 ~1.5 years  
+Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
+
+From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
+
+Receptionist – CTU Dormitories (Since February 2025)  
+📍 Part-time  
+Working at the reception desk of student dormitories.
+
+Print Shop Assistant (Summer 2021)  
+📍 3 months (part-time)  
+Prepared raster images for print, created brochures and posters.
+
+Warehouse Worker (Winter 2022 – Autumn 2023)  
+📍 ~1.5 years  
+Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
+
+From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
+
+Receptionist – CTU Dormitories (Since February 2025)  
+📍 Part-time  
+Working at the reception desk of student dormitories.
+
+
 ## College (2017–2021)
 Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
 
@@ -23,7 +55,6 @@ That was the moment I realized **I actually enjoyed programming and working with
 - [🔗Adobe Premiere Pro]() ❌ *Repository not yet created*
 - [🔗Adobe Animate]() ❌ *Repository not yet created*
 - [🔗3ds Max]() ❌ *Repository not yet created*
-
 
 ## University, Bc. (2023 - ) <br>
 Czech Technical University in Prague <br>
@@ -97,22 +128,6 @@ Czech Technical University in Prague <br>
 - **[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)**  
   C# implementation of encryption algorithms using design patterns:  
   *Strategy, Factory Method, Decorator, Singleton, Command*  
-
-## Work Experience
-
-Print Shop Assistant (Summer 2021)  
-📍 3 months (part-time)  
-Prepared raster images for print, created brochures and posters.
-
-Warehouse Worker (Winter 2022 – Autumn 2023)  
-📍 ~1.5 years  
-Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
-
-From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
-
-Receptionist – CTU Dormitories (Since February 2025)  
-📍 Part-time  
-Working at the reception desk of student dormitories.
 
 ## Contact
 
