@@ -1,8 +1,4 @@
 # Volha Kramko – CV and GitHub Guide
-
-Welcome to my GitHub!  
-Here you'll find a collection of my CV, university coursework, final projects, and personal coding experiments.
-
 - [🔗My GitHub](https://github.com/kramkvol)  
 - vohakramko@gmail.com
 ## CV
