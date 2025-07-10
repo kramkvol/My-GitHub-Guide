@@ -22,7 +22,7 @@ Here you'll find a collection of my university coursework, final projects, and p
   📍 3 months (part-time)  
   Prepared raster images for print, created brochures and posters.
 
-- Warehouse Worker (Winter 2022 – Autumn 2023)
+- Warehouse Worker (Winter 2022 – Autumn 2023) <br>
   📍 ~1.5 years  
   Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
 
