@@ -30,7 +30,7 @@ Belarus, Minsk:
 - From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
 Czech Republic, Prague:
-- Private Tutor (ongoing, freelance)
+- Private Tutor (ongoing, freelance) <br>
   📍 Part-time
   Helping university students prepare for basic programming exams.
   Real cases: C/C++, Python, SQL to beginners.
