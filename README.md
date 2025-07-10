@@ -32,7 +32,7 @@ Belarus, Minsk:
 Czech Republic, Prague:
 - Private Tutor (ongoing, freelance)
   📍 Part-time
-  Helping university students prepare for basic programming and database exams.
+  Helping university students prepare for basic programming exams.
   Real cases: C/C++, Python, SQL to beginners.
   
 - Receptionist – CTU Dormitories (Since February 2025)  
