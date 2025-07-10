@@ -4,36 +4,30 @@ Welcome to my GitHub!
 Here you'll find a collection of my university coursework, final projects, and personal coding experiments.
 
 ## CV
+### Education
+- College (Minsk, Belarus) (2017–2021)
+- Czech Technical University in Prague, Bc. (2023 - )
+  Language: CZ
 
 ### Work Experience
-Print Shop Assistant (Summer 2021)  
-📍 3 months (part-time)  
-Prepared raster images for print, created brochures and posters.
+- Print Shop Assistant (Summer 2021)  
+  📍 3 months (part-time)  
+  Prepared raster images for print, created brochures and posters.
 
-Warehouse Worker (Winter 2022 – Autumn 2023)  
-📍 ~1.5 years  
-Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
+- Warehouse Worker (Winter 2022 – Autumn 2023)  
+  📍 ~1.5 years  
+  Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
 
-From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
+- From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
-Receptionist – CTU Dormitories (Since February 2025)  
-📍 Part-time  
-Working at the reception desk of student dormitories.
+- Receptionist – CTU Dormitories (Since February 2025)  
+  📍 Part-time  
+  Working at the reception desk of student dormitories.
 
-Print Shop Assistant (Summer 2021)  
-📍 3 months (part-time)  
-Prepared raster images for print, created brochures and posters.
-
-Warehouse Worker (Winter 2022 – Autumn 2023)  
-📍 ~1.5 years  
-Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
-
-From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
-
-Receptionist – CTU Dormitories (Since February 2025)  
-📍 Part-time  
-Working at the reception desk of student dormitories.
-
+### Languages
+- Czech – B2
+- English – B1
+- German – Currently learning it at university as a hobby; no level yet.
 
 ## College (2017–2021)
 Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
@@ -56,7 +50,7 @@ That was the moment I realized **I actually enjoyed programming and working with
 - [🔗Adobe Animate]() ❌ *Repository not yet created*
 - [🔗3ds Max]() ❌ *Repository not yet created*
 
-## University, Bc. (2023 - ) <br>
+## University, Bc. (2023 - ) 
 Czech Technical University in Prague <br>
 **Faculty**: Faculty of Electrical Engineering <br>
 **Study Programme**: Software Engineering and Technology <br>
