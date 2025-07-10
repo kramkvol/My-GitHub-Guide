@@ -50,7 +50,7 @@ Czech Technical University in Prague <br>
   The final project required writing process-based and mock tests. <br>
   I implemented them for my final Java project. All the links and explanations are in this repository :)
 - [🔗B0B36DBS – Database Systems]() ❌ *Repository not yet created* <br>
-  After this course, I made a rule to never choose topics that are *too* ambitious again. <br>  
+  After this course, I made a rule to never choose topics that are *too* ambitious again. 
   I really enjoy the process of designing database systems and working with data, but this particular project turned out to be a complete failure :(
 - [🔗B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements) <br>
   Team project. This course wasn't about coding, but focused on design and analysis. <br>
