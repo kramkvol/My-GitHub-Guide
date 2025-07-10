@@ -97,7 +97,7 @@ That was the moment I realized **I actually enjoyed programming and working with
   Android app written in **Kotlin**. Since I love reading, the idea came to me quickly. 
   I might add data export to a text file in the future, so nothing gets lost if the app is uninstalled. 
   If I do that, I might actually use the app myself :) 
-- [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) 
+- [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) <br>
   I realized that data analysis is not for me :) 
 ---
 
