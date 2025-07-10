@@ -3,8 +3,6 @@
 Welcome to my GitHub!  
 Here you'll find a collection of my university coursework, final projects, and personal coding experiments.
 
----
-
 ## College (2019–2021)
 
 - **[🔗 C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)**  
@@ -19,8 +17,6 @@ Here you'll find a collection of my university coursework, final projects, and p
 - [🔗 Adobe Premiere Pro]()
 - [🔗 Adobe Animate]()
 - [🔗 3ds Max]()
-
----
 
 ## University, Bc. (2023 - 2027)
 
@@ -44,8 +40,6 @@ Specialization: Business informatics
 - B0B36DBS – Database Systems  
 - B6B36SMP – Analysis and Modeling of Software Requirements  
 
----
-
 ### 2nd Year
 **Winter semester, 2024**
 - B6B39ZWA – Foundations of Web Applications  
@@ -56,8 +50,6 @@ Specialization: Business informatics
 - B6B39ZAN – Basic Android Development  
 - B6B16ZDA – Basics of Data Analysis  
 
----
-
 ### 3rd Year
 **Winter semester, 2025**
 - B0B36TPA – Creation of Business Applications  
@@ -67,22 +59,16 @@ Specialization: Business informatics
 - B6B36NSS – Design of Software Systems  
 - B6B36DSA – Data Structures and Algorithms  
 
----
-
 ### 4th Year
 **Winter semester, 2026**
 - B6BPROJ6 – Semestral Project → BBAP20 Bachelor Thesis  
 - B0M32KSB – Cryptography and Network Security  
-
----
 
 ## Pet & Archive Projects
 
 - **[🔗 patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)**  
   C# implementation of encryption algorithms using design patterns:  
   *Strategy, Factory Method, Decorator, Singleton, Command*  
-
----
 
 ## Contact
 
