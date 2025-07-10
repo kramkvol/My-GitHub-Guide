@@ -5,9 +5,16 @@ Here you'll find a collection of my university coursework, final projects, and p
 
 ## CV
 ### Education
-- College (Minsk, Belarus) (2017–2021)
-- Czech Technical University in Prague, Bc. (2023 - ) <br>
-  Language: CZ
+- College of Business and Law (Minsk, Belarus) (2017–2021)  
+  Field of study: Software for Information Technologies  
+  Specialization: Computer Graphics
+
+- Czech Technical University in Prague – Bachelor's Degree (2023– )  
+  Faculty of Electrical Engineering  
+  Study Programme: Software Engineering and Technology  
+  Specialization: Business Informatics  
+  Language of instruction: Czech
+  [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
 
 ### Work Experience
 - Print Shop Assistant (Summer 2021)  
@@ -27,7 +34,7 @@ Here you'll find a collection of my university coursework, final projects, and p
 ### Languages
 - Czech – B2
 - English – B1
-- German – Currently learning it at university as a hobby (no official level yet
+- German – Currently learning it at university as a hobby (no official level yet)
 
 ## College (2017–2021)
 Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
@@ -43,22 +50,14 @@ That was the moment I realized **I actually enjoyed programming and working with
   My first programming experiments in C++
 - **[🔗C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)**  <br>
   College tasks, pet projects, and final thesis in C#  
-- [🔗MS SQL Server]() ❌ *Repository not yet created*
-- [🔗Adobe Photoshop]() ❌ *Repository not yet created*
-- [🔗Adobe Illustrator]() ❌ *Repository not yet created*
-- [🔗Adobe Premiere Pro]() ❌ *Repository not yet created*
-- [🔗Adobe Animate]() ❌ *Repository not yet created*
-- [🔗3ds Max]() ❌ *Repository not yet created*
+- MS SQL Server ❌ *Repository not yet created*
+- Adobe Photoshop ❌ *Repository not yet created*
+- Adobe Illustrator ❌ *Repository not yet created*
+- Adobe Premiere Pro ❌ *Repository not yet created*
+- Adobe Animate ❌ *Repository not yet created*
+- 3ds Max ❌ *Repository not yet created*
 
 ## Czech Technical University in Prague – Bachelor's Degree (2023– )
-Czech Technical University in Prague <br>
-**Faculty**: Faculty of Electrical Engineering <br>
-**Study Programme**: Software Engineering and Technology <br>
-**Specialization**: Business informatics <br>
-[🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
-
-
----
 ### 1st Year
 **Winter semester, 2023**
 - [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming) <br>
@@ -74,7 +73,7 @@ Czech Technical University in Prague <br>
 - [🔗B6B36TS1 – Software Testing](https://github.com/kramkvol/B6B36TS1-Software-Testing) <br>
   The final project required writing process-based and mock tests. 
   I implemented them for my final Java project. All the links and explanations are in this repository :)
-- [🔗B0B36DBS – Database Systems]() ❌ *Repository not yet created* <br>
+- B0B36DBS – Database Systems ❌ *Repository not yet created* <br>
   After this course, I made a rule to never choose topics that are *too* ambitious again. 
   I really enjoy the process of designing database systems and working with data, but this particular project turned out to be a complete failure :(
 - [🔗B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements) <br>
@@ -85,7 +84,7 @@ Czech Technical University in Prague <br>
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
   When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
-  During the semester, I learned **HTML**, **JavaScript**, **CSS**, and *PHP*.  
+  During the semester, I learned **HTML**, **JavaScript**, **CSS**, and **PHP**.  
   In the final project, I used a **MySQL** database to store data.
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
   A team final project in **Java**. I found this course very interesting and important, so in my pet projects I try to focus on using design patterns.
