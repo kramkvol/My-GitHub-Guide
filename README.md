@@ -3,47 +3,58 @@
 Welcome to my GitHub!  
 Here you'll find a collection of my university coursework, final projects, and personal coding experiments.
 
-## College (2019–2021)
+## College (2017–2021)
+Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
+
+I found a video course on C++ and started watching everything I could while typing code alongside.  
+When I moved to the Czech Republic, I took my old notebook with me — it’s full of handwritten C++ theory notes from that time :) 
+
+In the 3rd and 4th years, we studied **C#** and **MS SQL Server**, along with many graphics-related subjects — that was my chosen specialization.  
+There were A LOT of assignments using **WinForms**, but I decided to upload only my thesis to GitHub.  
+That was the moment I realized **I actually enjoyed programming and working with databases** — and that **I really didn’t want to work with graphics anymore**.
 
 - **[🔗C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)** <br>
   My first programming experiments in C++
 - **[🔗C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)**  <br>
   College tasks, pet projects, and final thesis in C#  
-- [🔗MS SQL Server]() ❌
-- [🔗Adobe Photoshop]() ❌
-- [🔗Adobe Illustrator]() ❌
-- [🔗Adobe Premiere Pro]() ❌
-- [🔗Adobe Animate]() ❌
-- [🔗3ds Max]() ❌
+- [🔗MS SQL Server]() ❌ *Repository not yet created*
+- [🔗Adobe Photoshop]() ❌ *Repository not yet created*
+- [🔗Adobe Illustrator]() ❌ *Repository not yet created*
+- [🔗Adobe Premiere Pro]() ❌ *Repository not yet created*
+- [🔗Adobe Animate]() ❌ *Repository not yet created*
+- [🔗3ds Max]() ❌ *Repository not yet created*
 
-## University, Bc. (2023 - 2027) <br>
+
+## University, Bc. (2023 - ) <br>
 Czech Technical University in Prague <br>
 **Faculty**: Faculty of Electrical Engineering <br>
 **Study Programme**: Software Engineering and Technology <br>
 **Specialization**: Business informatics <br>
 [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
 
----
 
+---
 ### 1st Year
 **Winter semester, 2023**
 - [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming)
+  A beginner-level course covering Python basics.
 - [🔗B6B39ZMT – Foundations of Multimedia Production](https://github.com/kramkvol/B6B39ZMT-Foundations-of-Multimedia-Production)  
-
+  I swore I’d never deal with graphics again...  
+  But then, in my first year, I had to take this course.  
+  As a final project, we had to direct and edit a video.
 **Summer semester, 2024**
 - [🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br>
   Unfortunately, at the time of implementing the final project, I wasn't yet familiar with design patterns, so the code quality is a bit messy. But it works :)
 - [🔗B6B36TS1 – Software Testing](https://github.com/kramkvol/B6B36TS1-Software-Testing) <br>
   The final project required writing process-based and mock tests. <br>
   I implemented them for my final Java project. All the links and explanations are in this repository :)
-- [🔗B0B36DBS – Database Systems]() ❌<br>
+- [🔗B0B36DBS – Database Systems]() ❌ *Repository not yet created* <br>
   After this course, I made a rule to never choose topics that are *too* ambitious again. <br>  
   I really enjoy the process of designing database systems and working with data, but this particular project turned out to be a complete failure :(
 - [🔗B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements) <br>
   Team project. This course wasn't about coding, but focused on design and analysis. <br>
   I found it useful — it reminded me of something similar I had back in college.
 ---
-
 ### 2nd Year
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications)
@@ -66,25 +77,41 @@ Czech Technical University in Prague <br>
 
 ### 3rd Year 
 **Winter semester, 2025**
-- B0B36TPA – Creation of Business Applications ❌
-- B6B36PCC – Programming in C/C++ ❌
+- B0B36TPA – Creation of Business Applications ❌ *Repository not yet created*
+- B6B36PCC – Programming in C/C++ ❌ *Repository not yet created*
 
 **Summer semester, 2026**
-- B6B36NSS – Design of Software Systems ❌ 
-- B6B36DSA – Data Structures and Algorithms ❌ 
+- B6B36NSS – Design of Software Systems ❌ *Repository not yet created*
+- B6B36DSA – Data Structures and Algorithms ❌ *Repository not yet created*
 
 ---
 
 ### 4th Year 
 **Winter semester, 2026**
-- B6BPROJ6 – Semestral Project → BBAP20 Bachelor Thesis ❌
-- B0M32KSB – Cryptography and Network Security ❌
+- B6BPROJ6 – Semestral Project → BBAP20 Bachelor Thesis ❌ *Repository not yet created*
+- B0M32KSB – Cryptography and Network Security ❌ *Repository not yet created*
 
 ## Pet & Archive Projects
 
 - **[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)**  
   C# implementation of encryption algorithms using design patterns:  
   *Strategy, Factory Method, Decorator, Singleton, Command*  
+
+## Work Experience
+
+Print Shop Assistant (Summer 2021)  
+📍 3 months (part-time)  
+Prepared raster images for print, created brochures and posters.
+
+Warehouse Worker (Winter 2022 – Autumn 2023)  
+📍 ~1.5 years  
+Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
+
+From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
+
+Receptionist – CTU Dormitories (Since February 2025)  
+📍 Part-time  
+Working at the reception desk of student dormitories.
 
 ## Contact
 
