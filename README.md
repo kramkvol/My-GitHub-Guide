@@ -34,26 +34,26 @@ Czech Technical University in Prague
 
 ### 1st Year
 **Winter semester, 2023**
-- B0B36ZAL – Introduction to Programming  
-- B6B39ZMT – Foundations of Multimedia Production  
+- [🔗 B0B36ZAL – Introduction to Programming](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming)
+- [🔗 B6B39ZMT – Foundations of Multimedia Production](https://github.com/kramkvol/B6B39ZMT-Foundations-of-Multimedia-Production)  
 
 **Summer semester, 2024**
-- B0B36PJV – Programming in Java  
-- B6B36TS1 – Software Testing  
-- B0B36DBS – Database Systems  
-- B6B36SMP – Analysis and Modeling of Software Requirements
+- [🔗 B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java)  
+- [🔗 B6B36TS1 – Software Testing](https://github.com/kramkvol/B6B36TS1-Software-Testing)
+- [🔗 B0B36DBS – Database Systems]()  
+- [🔗 B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements)
 
 ---
 
 ### 2nd Year
 **Winter semester, 2024**
-- B6B39ZWA – Foundations of Web Applications  
-- B6B36OMO – Object-Oriented Design and Modeling  
+- [🔗 B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications)  
+- [🔗 B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling)  
 
 **Summer semester, 2025**
-- B0B39KAJ – Client Applications in JavaScript  
-- B6B39ZAN – Basic Android Development  
-- B6B16ZDA – Basics of Data Analysis  
+- [🔗 B0B39KAJ – Client Applications in JavaScript](https://github.com/kramkvol/B0B39KAJ-Client-applications-in-JavaScript)  
+- [🔗 B6B39ZAN – Basic Android Development](https://github.com/kramkvol/B6B39ZAN-Basic-Android-development)  
+- [🔗 B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis)  
 
 ---
 
