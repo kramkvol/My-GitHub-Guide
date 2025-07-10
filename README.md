@@ -18,6 +18,7 @@ Here you'll find a collection of my university coursework, final projects, and p
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
 
 ### Work Experience
+Belarus, Minsk:
 - Print Shop Assistant (Summer 2021)  
   📍 3 months (part-time)  
   Prepared raster images for print, created brochures and posters.
@@ -28,6 +29,12 @@ Here you'll find a collection of my university coursework, final projects, and p
 
 - From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
+Czech Republic:
+- Private Tutor (ongoing, freelance)
+  📍 Part-time
+  Helping university students prepare for basic programming and database exams.
+  Real cases: C/C++, Python, SQL to beginners.
+  
 - Receptionist – CTU Dormitories (Since February 2025)  
   📍 Part-time  
   Working at the reception desk of student dormitories.
