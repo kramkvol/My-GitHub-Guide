@@ -6,7 +6,7 @@ Here you'll find a collection of my university coursework, final projects, and p
 ## CV
 ### Education
 - College (Minsk, Belarus) (2017–2021)
-- Czech Technical University in Prague, Bc. (2023 - )
+- Czech Technical University in Prague, Bc. (2023 - ) <br>
   Language: CZ
 
 ### Work Experience
@@ -14,7 +14,7 @@ Here you'll find a collection of my university coursework, final projects, and p
   📍 3 months (part-time)  
   Prepared raster images for print, created brochures and posters.
 
-- Warehouse Worker (Winter 2022 – Autumn 2023)  
+- Warehouse Worker (Winter 2022 – Autumn 2023)
   📍 ~1.5 years  
   Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
 
@@ -27,7 +27,7 @@ Here you'll find a collection of my university coursework, final projects, and p
 ### Languages
 - Czech – B2
 - English – B1
-- German – Currently learning it at university as a hobby; no level yet.
+- German – Currently learning it at university as a hobby (no official level yet
 
 ## College (2017–2021)
 Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
@@ -50,7 +50,7 @@ That was the moment I realized **I actually enjoyed programming and working with
 - [🔗Adobe Animate]() ❌ *Repository not yet created*
 - [🔗3ds Max]() ❌ *Repository not yet created*
 
-## University, Bc. (2023 - ) 
+## Czech Technical University in Prague – Bachelor's Degree (2023– )
 Czech Technical University in Prague <br>
 **Faculty**: Faculty of Electrical Engineering <br>
 **Study Programme**: Software Engineering and Technology <br>
@@ -85,7 +85,7 @@ Czech Technical University in Prague <br>
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
   When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
-  During the semester, I learned **HTML**, **JavaScript**, **CSS**, and **PHP*.  
+  During the semester, I learned **HTML**, **JavaScript**, **CSS**, and *PHP*.  
   In the final project, I used a **MySQL** database to store data.
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
   A team final project in **Java**. I found this course very interesting and important, so in my pet projects I try to focus on using design patterns.
