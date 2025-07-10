@@ -14,6 +14,7 @@ Here you'll find a collection of my university coursework, final projects, and p
   Study Programme: Software Engineering and Technology  
   Specialization: Business Informatics  
   Language of instruction: Czech
+
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
 
 ### Work Experience
