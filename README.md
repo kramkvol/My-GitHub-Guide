@@ -27,7 +27,7 @@ Faculty of Electrical Engineering
 Study Programme: Software Engineering and Technology
 
 Specialization: Business informatics 
-(🔗 Study plan)[https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html]
+[🔗 Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
 
 ### 1st Year
 **Winter semester, 2023**
