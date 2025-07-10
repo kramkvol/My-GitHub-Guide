@@ -3,6 +3,8 @@
 Welcome to my GitHub!  
 Here you'll find a collection of my CV, university coursework, final projects, and personal coding experiments.
 
+- GitHub: [🔗@kramkvol](https://github.com/kramkvol)  
+- Email: vohakramko@gmail.com
 ## CV
 ### Education
 - College of Business and Law (Minsk, Belarus) (2017–2021)  
@@ -129,8 +131,3 @@ That was the moment I realized **I actually enjoyed programming and working with
 - **[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)**  
   C# implementation of encryption algorithms using design patterns:  
   *Strategy, Factory Method, Decorator, Singleton, Command*  
-
-## Contact
-
-- GitHub: [🔗@kramkvol](https://github.com/kramkvol)  
-- Email: vohakramko@gmail.com
