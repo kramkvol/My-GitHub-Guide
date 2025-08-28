@@ -109,7 +109,7 @@ That was the moment I realized **I actually enjoyed programming and working with
 ### 3rd Year 
 **Winter semester, 2025**
 - B0B36TPA – Creation of Business Applications ❌ *Repository not yet created*
-- B6B36PCC – Programming in C/C++ ❌ *Repository not yet created*
+- [🔗B6B36PCC – Programming in C/C++](https://github.com/kramkvol/B6B36PCC-Programming-in-C-C-) ❌ *Repository not yet created*
 
 **Summer semester, 2026**
 - B6B36NSS – Design of Software Systems ❌ *Repository not yet created*
