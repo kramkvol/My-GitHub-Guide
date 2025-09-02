@@ -10,9 +10,7 @@
 |-------|--------|-------|-------|
 | **GitHub**, **GitLab** | Advanced | Regulary use |
 | **SQL** | Advanced | Comfortable writing code and applying in projects| 
-| **Java** | Advanced | Comfortable writing code and applying in projects| 
-[🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br> 
-[🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) 
+| **Java** | Advanced | Comfortable writing code and applying in projects| [🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java), [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) 
 | **C# + WinForms** | Advanced | Comfortable writing code and applying in projects | 
 [🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)
 [🔗C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)
