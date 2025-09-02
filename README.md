@@ -8,13 +8,12 @@
 ### Skills 
 | Skill | Level | Notes |
 |-------|--------|-------|
-| **GitHub** | Advanced | Regulary use |
-| **GitLab** | Advanced | Regulary use |
+| **GitHub**, **GitLab** | Advanced | Regulary use |
 | **SQL** | Advanced | Comfortable writing code and applying in projects|
 | **Java** | Advanced | Comfortable writing code and applying in projects|
 | **C#** | Advanced | Comfortable writing code and applying in projects |
+| **Design Patterns** | Intermediate| Used in academic and training projects |
 | **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects |
-| **Design Patterns** | Familiar with | Used in academic and training projects |
 | **Kotlin** | Intermediate | Used in academic projects |
 | **C++** | Intermediate | Used in academic projects, can read and modify existing code |
 | **C** | Familiar with | Wrote simple programs, can read and modify existing code |
