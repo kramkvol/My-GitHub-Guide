@@ -33,7 +33,6 @@
   Field of study: Software for Information Technologies  
   Specialization: Computer Graphics
 ### Work Experience
-Czech Republic, Prague:
 - Receptionist – CTU Dormitories (Since February 2025)  
   📍 Part-time  
   Working at the reception desk of student dormitories.
@@ -50,7 +49,7 @@ Czech Republic, Prague:
   Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
   
 - Print Shop Assistant (Summer 2021)  
-  📍 3 months (part-time)  
+  📍 3 months 
   Prepared raster images for print, created brochures and posters.
 
 ## GitHub Guide
