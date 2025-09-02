@@ -23,7 +23,7 @@
 - **English** – B1, сurrently improving English (towards B2)
 ### Education
 - **Czech Technical University in Prague – Bc (2023 - now)**   
-  Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering)
+  Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering) <br>
   Language: Czech
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
   
