@@ -20,34 +20,27 @@
 | **C** | Familiar with | Wrote simple programs, can read and modify existing code |
 ### Languages
 - **Czech** – B2
-- **English** – B1
+- **English** – B1, сurrently improving English (towards B2)
 ### Education
 - **Czech Technical University in Prague – Bc (2023 - now)**   
   Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering)
   Language: Czech
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
   
-- **College of Business and Law (2017–2021)**  
+- **College of Business and Law (in Minsk) (2017–2021)**  
   Software for Information Technologies, Computer Graphics
 ### Work Experience
 - Receptionist – CTU Dormitories (Since February 2025)  
-  📍 Part-time  
   Working at the reception desk of student dormitories.
   
 - Private Tutor (ongoing, freelance) <br>
-  📍 Part-time
   Helping university students prepare for basic programming exams.
   Real cases: C/C++, Python, SQL to beginners.
   
 *From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies*
 
-- Warehouse Worker (Winter 2022 – Autumn 2023) <br>
-  📍 ~1.5 years  
-  Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
-  
-- Print Shop Assistant (Summer 2021)  
-  📍 3 months 
-  Prepared raster images for print, created brochures and posters.
+- Warehouse Worker (~1.5 years: winter 2022 – autumn 2023) - Used a TSD terminal to pick and pack orders.
+- Print Shop Assistant (Summer 2021)  - Prepared raster images for print, created brochures and posters.
 
 ## GitHub Guide
 ### College (2017–2021)
