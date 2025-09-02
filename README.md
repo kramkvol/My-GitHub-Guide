@@ -86,7 +86,7 @@ Although graphics is not my main focus, this course introduced me to multimedia 
 #### 2nd Year
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
-  When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
+  This was one of the most challenging but also most interesting courses of the semester.” 
   During the semester, I learned **HTML**, **JavaScript**, **CSS**, and **PHP**.  
   In the final project, I used a **MySQL** database to store data.
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
@@ -94,13 +94,12 @@ Although graphics is not my main focus, this course introduced me to multimedia 
  
 **Summer semester, 2025**
 - [🔗B0B39KAJ – Client Applications in JavaScript](https://github.com/kramkvol/B0B39KAJ-Client-applications-in-JavaScript) <br>
-  A more relaxed course after the intense B6B39ZWA :D
+  A more relaxed course after the intense B6B39ZWA.
 - [🔗B6B39ZAN – Basic Android Development](https://github.com/kramkvol/B6B39ZAN-Basic-Android-development) <br>
   Android app written in **Kotlin**. Since I love reading, the idea came to me quickly. 
-  I might add data export to a text file in the future, so nothing gets lost if the app is uninstalled. 
-  If I do that, I might actually use the app myself :) 
+ Potential future improvement: data export to a text file to ensure persistence after uninstall.
 - [🔗B6B16ZDA – Basics of Data Analysis](https://github.com/kramkvol/B6B16ZDA-Basics-of-Data-Analysis) <br>
-  I realized that data analysis is not for me :) 
+  This course helped me explore data analysis, but I decided not to pursue this field further.
 ---
 
 #### 3rd Year 
