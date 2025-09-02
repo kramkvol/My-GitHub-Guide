@@ -5,6 +5,15 @@
 - GitHub https://github.com/kramkvol)
 - Email vohakramko@gmail.com
 - Phone +420 777 980 493
+### Skills 
+- 'GitHub' Advanced
+- 'SQL'    Advanced (confidently write production-level code, understand the ecosystem)
+- 'Java'   Advanced (confidently write production-level code, understand the ecosystem)
+- 'HTML', 'JavaScript', 'PHP', 'CSS' Advanced (used in academic or training projects)
+- 'C#'     Intermediate (used in academic or training projects)
+- 'Kotlin' Intermediate (used in academic or training projects)
+- 'C++'    Intermediate (used in academic or training projects)
+- 'C'      Familiar with (tried, can read and modify existing code)
 ### Languages
 - Czech – B2
 - English – B1
@@ -20,7 +29,6 @@
   Field of study: Software for Information Technologies  
   Specialization: Computer Graphics
 ### Work Experience
-
 Czech Republic, Prague:
 - Receptionist – CTU Dormitories (Since February 2025)  
   📍 Part-time  
@@ -39,7 +47,6 @@ Belarus, Minsk:
 - Print Shop Assistant (Summer 2021)  
   📍 3 months (part-time)  
   Prepared raster images for print, created brochures and posters.
-
 
 From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
