@@ -12,10 +12,11 @@
 | **SQL** | Advanced | Comfortable writing code and applying in projects|
 | **Java** | Advanced | Comfortable writing code and applying in projects|
 | **C#** | Advanced | Comfortable writing code and applying in projects |
-| **Design Patterns** | Intermediate| Used in academic and training projects |
-| **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects |
-| **Kotlin** | Intermediate | Used in academic projects |
-| **C++** | Intermediate | Used in academic projects, can read and modify existing code |
+| **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects|
+| **Design Patterns** | Intermediate | Comfortable applying in projects |
+| **Python** | Familiar with |  Wrote simple programs, can read and modify existing code |
+| **Kotlin** | Familiar with | Used in academic projects, can read and modify existing code |
+| **C++** | Familiar with | Used in academic projects, can read and modify existing code |
 | **C** | Familiar with | Wrote simple programs, can read and modify existing code |
 ### Languages
 - **Czech** – B2
