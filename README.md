@@ -22,23 +22,13 @@
 - **Czech** – B2
 - **English** – B1
 ### Education
-### Education  
-
-| Institution | Degree / Field | Years | Notes |
-|-------------|----------------|-------|-------|
-| **Czech Technical University in Prague** | Bachelor's Degree — Software Engineering and Technology | 2023– | Faculty of Electrical Engineering, Specialization: Business Informatics <br> Language of instruction: Czech <br> [🔗 Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html) |
-| **College of Business and Law** | Software for Information Technologies | 2017–2021 | Specialization: Computer Graphics |
-
-- **Czech Technical University in Prague – Bachelor's Degree (2023– )**  
-  Faculty of Electrical Engineering  
-  Study Programme: Software Engineering and Technology  
-  Specialization: Business Informatics  
-  Language of instruction: Czech
+- **Czech Technical University in Prague – Bc (2023 - now)**   
+  Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering)
+  Language: Czech
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
   
 - **College of Business and Law (2017–2021)**  
-  Field of study: Software for Information Technologies  
-  Specialization: Computer Graphics
+  Software for Information Technologies, Computer Graphics
 ### Work Experience
 - Receptionist – CTU Dormitories (Since February 2025)  
   📍 Part-time  
