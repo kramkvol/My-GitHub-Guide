@@ -1,7 +1,13 @@
 # Volha Kramko – CV and GitHub Guide
-- [🔗My GitHub](https://github.com/kramkvol)  
-- vohakramko@gmail.com
 ## CV
+### Contacts and Links
+- LinkecIn www.linkedin.com/in/volha-kramko-a47526323
+- GitHub https://github.com/kramkvol)
+- Email vohakramko@gmail.com
+- Phone +420 777 980 493
+### Languages
+- Czech – B2
+- English – B1
 ### Education
 - College of Business and Law (Minsk, Belarus) (2017–2021)  
   Field of study: Software for Information Technologies  
@@ -12,9 +18,7 @@
   Study Programme: Software Engineering and Technology  
   Specialization: Business Informatics  
   Language of instruction: Czech
-
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
-
 ### Work Experience
 Belarus, Minsk:
 - Print Shop Assistant (Summer 2021)  
@@ -25,7 +29,7 @@ Belarus, Minsk:
   📍 ~1.5 years  
   Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
 
-- From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
+From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
 Czech Republic, Prague:
 - Private Tutor (ongoing, freelance) <br>
@@ -37,12 +41,8 @@ Czech Republic, Prague:
   📍 Part-time  
   Working at the reception desk of student dormitories.
 
-### Languages
-- Czech – B2
-- English – B1
-- German – Currently learning it at university as a hobby (no official level yet)
-
-## College (2017–2021)
+## GitHub Guide
+### College (2017–2021)
 Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
 
 I found a video course on C++ and started watching everything I could while typing code alongside.  
@@ -63,8 +63,8 @@ That was the moment I realized **I actually enjoyed programming and working with
 - Adobe Animate ❌ *Repository not yet created*
 - 3ds Max ❌ *Repository not yet created*
 
-## Czech Technical University in Prague – Bachelor's Degree (2023– )
-### 1st Year
+### Czech Technical University in Prague – Bachelor's Degree (2023– )
+#### 1st Year
 **Winter semester, 2023**
 - [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming) <br>
   A beginner-level course covering Python basics.
@@ -86,7 +86,7 @@ That was the moment I realized **I actually enjoyed programming and working with
   Team project. This course wasn't about coding, but focused on design and analysis. 
   I found it useful — it reminded me of something similar I had back in college.
 ---
-### 2nd Year
+#### 2nd Year
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
   When I wrote this CV (in my 2nd year), this was the hardest but also the most interesting course for me.  
@@ -106,7 +106,7 @@ That was the moment I realized **I actually enjoyed programming and working with
   I realized that data analysis is not for me :) 
 ---
 
-### 3rd Year 
+#### 3rd Year 
 **Winter semester, 2025**
 - B0B36TPA – Creation of Business Applications ❌ *Repository not yet created*
 - [🔗B6B36PCC – Programming in C/C++](https://github.com/kramkvol/B6B36PCC-Programming-in-C-C-) ❌ *Repository not yet created*
@@ -117,12 +117,12 @@ That was the moment I realized **I actually enjoyed programming and working with
 
 ---
 
-### 4th Year 
+#### 4th Year 
 **Winter semester, 2026**
 - B6BPROJ6 – Semestral Project → BBAP20 Bachelor Thesis ❌ *Repository not yet created*
 - B0M32KSB – Cryptography and Network Security ❌ *Repository not yet created*
 
-## Pet & Archive Projects
+### Pet & Archive Projects
 
 - **[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)**  
   C# implementation of encryption algorithms using design patterns:  
