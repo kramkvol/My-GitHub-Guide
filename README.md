@@ -9,37 +9,39 @@
 - Czech – B2
 - English – B1
 ### Education
-- College of Business and Law (Minsk, Belarus) (2017–2021)  
-  Field of study: Software for Information Technologies  
-  Specialization: Computer Graphics
-
 - Czech Technical University in Prague – Bachelor's Degree (2023– )  
   Faculty of Electrical Engineering  
   Study Programme: Software Engineering and Technology  
   Specialization: Business Informatics  
   Language of instruction: Czech
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
+  
+- College of Business and Law (Minsk, Belarus) (2017–2021)  
+  Field of study: Software for Information Technologies  
+  Specialization: Computer Graphics
 ### Work Experience
-Belarus, Minsk:
-- Print Shop Assistant (Summer 2021)  
-  📍 3 months (part-time)  
-  Prepared raster images for print, created brochures and posters.
-
-- Warehouse Worker (Winter 2022 – Autumn 2023) <br>
-  📍 ~1.5 years  
-  Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
-
-From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
 Czech Republic, Prague:
+- Receptionist – CTU Dormitories (Since February 2025)  
+  📍 Part-time  
+  Working at the reception desk of student dormitories.
+  
 - Private Tutor (ongoing, freelance) <br>
   📍 Part-time
   Helping university students prepare for basic programming exams.
   Real cases: C/C++, Python, SQL to beginners.
   
-- Receptionist – CTU Dormitories (Since February 2025)  
-  📍 Part-time  
-  Working at the reception desk of student dormitories.
+Belarus, Minsk:
+- Warehouse Worker (Winter 2022 – Autumn 2023) <br>
+  📍 ~1.5 years  
+  Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
+  
+- Print Shop Assistant (Summer 2021)  
+  📍 3 months (part-time)  
+  Prepared raster images for print, created brochures and posters.
+
+
+From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
 ## GitHub Guide
 ### College (2017–2021)
