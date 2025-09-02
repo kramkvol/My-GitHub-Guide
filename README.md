@@ -14,7 +14,8 @@
 | **Java** | Advanced | Comfortable writing code and applying in projects|
 | **C#** | Advanced | Comfortable writing code and applying in projects |
 | **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects |
-| **Kotlin** | Intermediate | Used in academic and training projects |
+| **Design Patterns** | Familiar with | Used in academic and training projects |
+| **Kotlin** | Intermediate | Used in academic projects |
 | **C++** | Intermediate | Used in academic projects, can read and modify existing code |
 | **C** | Familiar with | Wrote simple programs, can read and modify existing code |
 ### Languages
