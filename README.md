@@ -44,14 +44,13 @@
 
 ## GitHub Guide
 ### College (2017–2021)
-Programming-related subjects didn’t appear until the winter semester of my second year (2018).  
+Programming-related subjects started in the winter semester of my second year (2018).
 
-I found a video course on C++ and started watching everything I could while typing code alongside.  
-When I moved to the Czech Republic, I took my old notebook with me — it’s full of handwritten C++ theory notes from that time :) 
+At that time, I followed a C++ video course and practiced by writing a lot of code. I still keep a notebook full of handwritten C++ theory notes from that period, which I took with me when I moved to the Czech Republic :)
 
-In the 3rd and 4th years, we studied **C#** and **MS SQL Server**, along with many graphics-related subjects — that was my chosen specialization.  
-There were A LOT of assignments using **WinForms**, but I decided to upload only my thesis to GitHub.  
-That was the moment I realized **I actually enjoyed programming and working with databases** — and that **I really didn’t want to work with graphics anymore**.
+In the 3rd and 4th years, we studied C# and MS SQL Server, together with many graphics-related subjects. Most assignments were based on WinForms. On GitHub, I uploaded my thesis project in C#.
+
+This was also the time when I discovered that I truly enjoy programming and working with databases, and decided to focus more on software development rather than graphics.
 
 - **[🔗C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)** <br>
   My first programming experiments in C++
@@ -69,20 +68,17 @@ That was the moment I realized **I actually enjoyed programming and working with
 **Winter semester, 2023**
 - [🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming) <br>
   A beginner-level course covering Python basics.
-- [🔗B6B39ZMT – Foundations of Multimedia Production](https://github.com/kramkvol/B6B39ZMT-Foundations-of-Multimedia-Production)  
-  I swore I’d never deal with graphics again...  
-  But then, in my first year, I had to take this course.  
-  As a final project, we had to direct and edit a video.
+- [🔗B6B39ZMT – Foundations of Multimedia Production](https://github.com/kramkvol/B6B39ZMT-Foundations-of-Multimedia-Production) ❌ *Private repository* <br>
+Although graphics is not my main focus, this course introduced me to multimedia production and gave me experience in video editing as part of the final project.
   
 **Summer semester, 2024**
 - [🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br>
-  Unfortunately, at the time of implementing the final project, I wasn't yet familiar with design patterns, so the code quality is a bit messy. But it works :)
+  At the time of implementing the final project, I was not yet familiar with design patterns, so the code could be structured better. However, the project is fully functional and demonstrated my ability to deliver working software.
 - [🔗B6B36TS1 – Software Testing](https://github.com/kramkvol/B6B36TS1-Software-Testing) <br>
   The final project required writing process-based and mock tests. 
-  I implemented them for my final Java project. All the links and explanations are in this repository :)
+  I implemented them for my final Java project. All the links and explanations are in this repository.
 - B0B36DBS – Database Systems ❌ *Repository not yet created* <br>
-  After this course, I made a rule to never choose topics that are *too* ambitious again. 
-  I really enjoy the process of designing database systems and working with data, but this particular project turned out to be a complete failure :(
+  This project was quite ambitious and I faced several challenges, which limited the final result. Still, the course gave me valuable experience in database design, and I realized how much I enjoy working with data.
 - [🔗B6B36SMP – Analysis and Modeling of Software Requirements](https://github.com/kramkvol/B6B36SMP-Analysis-and-Modeling-of-Software-Requirements) <br>
   Team project. This course wasn't about coding, but focused on design and analysis. 
   I found it useful — it reminded me of something similar I had back in college.
@@ -110,7 +106,7 @@ That was the moment I realized **I actually enjoyed programming and working with
 #### 3rd Year 
 **Winter semester, 2025**
 - B0B36TPA – Creation of Business Applications ❌ *Repository not yet created*
-- [🔗B6B36PCC – Programming in C/C++](https://github.com/kramkvol/B6B36PCC-Programming-in-C-C-) ❌ *Repository not yet created*
+- [🔗B6B36PCC – Programming in C/C++](https://github.com/kramkvol/B6B36PCC-Programming-in-C-C-) ❌ *Private repository*
 
 **Summer semester, 2026**
 - B6B36NSS – Design of Software Systems ❌ *Repository not yet created*
