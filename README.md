@@ -5,6 +5,14 @@
 - **GitHub** https://github.com/kramkvol
 - **Email** vohakramko@gmail.com
 - **Phone** +420 777 980 493
+### Education
+- **Czech Technical University in Prague – Bc (2023 - now)**   
+  Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering) <br>
+  Language: Czech
+  [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
+  
+- **College of Business and Law (in Minsk) (2017–2021)**  
+  Software for Information Technologies, Computer Graphics
 ### Skills 
 | Skill | Level | Notes | Examples|
 |-------|--------|-------|-------|
@@ -21,14 +29,6 @@
 ### Languages
 - **Czech** – B2
 - **English** – B1, сurrently improving English (towards B2)
-### Education
-- **Czech Technical University in Prague – Bc (2023 - now)**   
-  Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering) <br>
-  Language: Czech
-  [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
-  
-- **College of Business and Law (in Minsk) (2017–2021)**  
-  Software for Information Technologies, Computer Graphics
 ### Work Experience
 - Receptionist – CTU Dormitories (Since February 2025)  
   Working at the reception desk of student dormitories.
