@@ -6,26 +6,28 @@
 - Email vohakramko@gmail.com
 - Phone +420 777 980 493
 ### Skills 
-- **GitHub** Advanced
-- **SQL**    Advanced (confidently write production-level code, understand the ecosystem)
-- **Java**   Advanced (confidently write production-level code, understand the ecosystem)
-- **HTML**, 'JavaScript', 'PHP', 'CSS' Advanced (used in academic or training projects)
-- **C#**     Intermediate (used in academic or training projects)
-- **Kotlin** Intermediate (used in academic or training projects)
-- **C++**    Intermediate (used in academic or training projects)
--  **C**     Familiar with (tried, can read and modify existing code)
+| Skill | Level | Notes |
+|-------|--------|-------|
+| **GitHub** | Advanced | — |
+| **SQL** | Advanced | Confidently write production-level code, understand the ecosystem |
+| **Java** | Advanced | Confidently write production-level code, understand the ecosystem |
+| **HTML, JavaScript, PHP, CSS** | Advanced | Used in academic or training projects |
+| **C#** | Intermediate | Used in academic or training projects |
+| **Kotlin** | Intermediate | Used in academic or training projects |
+| **C++** | Intermediate | Used in academic or training projects |
+| **C** | Familiar with | Tried, can read and modify existing code |
 ### Languages
-- Czech – B2
-- English – B1
+- **Czech** – B2
+- **English** – B1
 ### Education
-- Czech Technical University in Prague – Bachelor's Degree (2023– )  
+- **Czech Technical University in Prague – Bachelor's Degree (2023– )**  
   Faculty of Electrical Engineering  
   Study Programme: Software Engineering and Technology  
   Specialization: Business Informatics  
   Language of instruction: Czech
   [🔗Study plan](https://intranet.fel.cvut.cz/en/education/bk/plany/pl30021569.html)
   
-- College of Business and Law (Minsk, Belarus) (2017–2021)  
+- **College of Business and Law (2017–2021)**  
   Field of study: Software for Information Technologies  
   Specialization: Computer Graphics
 ### Work Experience
@@ -39,7 +41,8 @@ Czech Republic, Prague:
   Helping university students prepare for basic programming exams.
   Real cases: C/C++, Python, SQL to beginners.
   
-Belarus, Minsk:
+*From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies*
+
 - Warehouse Worker (Winter 2022 – Autumn 2023) <br>
   📍 ~1.5 years  
   Used a TSD terminal to pick and pack orders. The job was physically demanding and fast-paced.
@@ -47,8 +50,6 @@ Belarus, Minsk:
 - Print Shop Assistant (Summer 2021)  
   📍 3 months (part-time)  
   Prepared raster images for print, created brochures and posters.
-
-From autumn 2023 to February 2025, I did not work due to relocation and full-time university studies.
 
 ## GitHub Guide
 ### College (2017–2021)
