@@ -6,17 +6,30 @@
 - **Email** vohakramko@gmail.com
 - **Phone** +420 777 980 493
 ### Skills 
-| Skill | Level | Notes |
-|-------|--------|-------|
+| Skill | Level | Notes | Examples|
+|-------|--------|-------|-------|
 | **GitHub**, **GitLab** | Advanced | Regulary use |
-| **SQL** | Advanced | Comfortable writing code and applying in projects|
-| **Java** | Advanced | Comfortable writing code and applying in projects|
-| **C# + WinForms** | Advanced | Comfortable writing code and applying in projects |
-| **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects|
-| **Design Patterns** | Intermediate | Comfortable applying in projects |
+| **SQL** | Advanced | Comfortable writing code and applying in projects| 
+| **Java** | Advanced | Comfortable writing code and applying in projects| 
+[🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br> 
+[🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) 
+| **C# + WinForms** | Advanced | Comfortable writing code and applying in projects | 
+[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)
+[🔗C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)
+| **HTML, JavaScript, PHP, CSS** | Advanced | Comfortable writing code and applying in projects| 
+[🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications)
+[🔗B0B39KAJ – Client Applications in JavaScript](https://github.com/kramkvol/B0B39KAJ-Client-applications-in-JavaScript) <br>
+| **Design Patterns** | Intermediate | Comfortable applying in projects | 
+[🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1)
+[🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling)   
 | **Python** | Familiar with |  Wrote simple programs, can read and modify existing code |
+[🔗B0B36ZAL – Introduction to Programming (Python)](https://github.com/kramkvol/B0B36ZAL-Introduction-to-Programming) <br>
 | **Kotlin** | Familiar with | Used in academic projects, can read and modify existing code |
-| **C++** | Familiar with | Used in academic projects, can read and modify existing code |
+[🔗B6B39ZAN – Basic Android Development](https://github.com/kramkvol/B6B39ZAN-Basic-Android-development) <br>
+| **C++** | Familiar with | Used in academic projects, can read and modify existing code | 
+[🔗B6B36PCC – Programming in C/C++](https://github.com/kramkvol/B6B36PCC-Programming-in-C-C-) <br>
+[🔗C-plus-plus (2018–2019)](https://github.com/kramkvol/C-plus-plus)** <br>
+
 | **C** | Familiar with | Wrote simple programs, can read and modify existing code |
 ### Languages
 - **Czech** – B2
