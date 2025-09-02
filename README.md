@@ -6,14 +6,14 @@
 - Email vohakramko@gmail.com
 - Phone +420 777 980 493
 ### Skills 
-- ''' GitHub ''' Advanced
-- ''SQL''    Advanced (confidently write production-level code, understand the ecosystem)
-- ''Java''   Advanced (confidently write production-level code, understand the ecosystem)
-- ''HTML'', 'JavaScript', 'PHP', 'CSS' Advanced (used in academic or training projects)
-- ''C#''     Intermediate (used in academic or training projects)
-- ''Kotlin'' Intermediate (used in academic or training projects)
-- ''C++''    Intermediate (used in academic or training projects)
-- ''C''      Familiar with (tried, can read and modify existing code)
+- **GitHub** Advanced
+- **SQL**    Advanced (confidently write production-level code, understand the ecosystem)
+- **Java**   Advanced (confidently write production-level code, understand the ecosystem)
+- **HTML**, 'JavaScript', 'PHP', 'CSS' Advanced (used in academic or training projects)
+- **C#**     Intermediate (used in academic or training projects)
+- **Kotlin** Intermediate (used in academic or training projects)
+- **C++**    Intermediate (used in academic or training projects)
+-  **C**     Familiar with (tried, can read and modify existing code)
 ### Languages
 - Czech – B2
 - English – B1
