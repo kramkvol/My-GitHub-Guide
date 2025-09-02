@@ -1,7 +1,7 @@
 # Volha Kramko – CV and GitHub Guide
 ## CV
 ### Contacts and Links
-- **LinkecIn** www.linkedin.com/in/volha-kramko-a47526323
+- **LinkedIn** www.linkedin.com/in/volha-kramko-a47526323
 - **GitHub** https://github.com/kramkvol
 - **Email** vohakramko@gmail.com
 - **Phone** +420 777 980 493
