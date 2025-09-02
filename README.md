@@ -6,7 +6,7 @@
 - Email vohakramko@gmail.com
 - Phone +420 777 980 493
 ### Skills 
-- ''GitHub'' Advanced
+- '''GitHub''' Advanced
 - ''SQL''    Advanced (confidently write production-level code, understand the ecosystem)
 - ''Java''   Advanced (confidently write production-level code, understand the ecosystem)
 - ''HTML'', 'JavaScript', 'PHP', 'CSS' Advanced (used in academic or training projects)
