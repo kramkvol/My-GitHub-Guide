@@ -8,7 +8,7 @@
 ### Skills 
 | Skill | Level | Notes | Examples|
 |-------|--------|-------|-------|
-| **GitHub**, **GitLab** | Advanced | Regulary use |
+| **GitHub**, **GitLab** | Advanced | Regularly use |
 | **SQL** | Advanced | Comfortable writing code and applying in projects| 
 | **Java** | Intermediate | Comfortable writing code and applying in projects| [🔗B0B36PJV – Programming in Java](https://github.com/kramkvol/B0B36PJV-Programming-in-Java) <br> [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) 
 | **C# + WinForms** | Advanced | Comfortable writing code and applying in projects | [🔗patterns_p1 (2025)](https://github.com/kramkvol/patterns_p1) <br> [🔗C-sharp (2019–2020)](https://github.com/kramkvol/C-sharp)
@@ -86,7 +86,7 @@ Although graphics is not my main focus, this course introduced me to multimedia 
 #### 2nd Year
 **Winter semester, 2024**
 - [🔗B6B39ZWA – Foundations of Web Applications](https://github.com/kramkvol/B6B39ZWA-Foundations-of-Web-Applications) <br>
-  This was one of the most challenging but also most interesting courses of the semester.” 
+  This was one of the most challenging but also most interesting courses of the semester.
   During the semester, I learned **HTML**, **JavaScript**, **CSS**, and **PHP**.  
   In the final project, I used a **MySQL** database to store data.
 - [🔗B6B36OMO – Object-Oriented Design and Modeling](https://github.com/kramkvol/B6B36OMO-Object-oriented-design-and-Modeling) <br>
