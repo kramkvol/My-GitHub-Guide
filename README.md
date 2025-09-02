@@ -8,7 +8,8 @@
 ### Skills 
 | Skill | Level | Notes |
 |-------|--------|-------|
-| **GitHub** | Advanced | — |
+| **GitHub** | Advanced | Regulary use |
+| **GitLab** | Advanced | Regulary use |
 | **SQL** | Advanced | Confidently write production-level code, understand the ecosystem |
 | **Java** | Advanced | Confidently write production-level code, understand the ecosystem |
 | **HTML, JavaScript, PHP, CSS** | Advanced | Used in academic or training projects |
