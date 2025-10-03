@@ -4,7 +4,6 @@
 - **LinkedIn** www.linkedin.com/in/volha-kramko-a47526323
 - **GitHub** https://github.com/kramkvol
 - **Email** vohakramko@gmail.com
-- **Phone** +420 777 980 493
 ### Education
 - **Czech Technical University in Prague – Bc (2023 - now)**   
   Software Engineering and Technology, Business Informatics (Faculty of Electrical Engineering) <br>
